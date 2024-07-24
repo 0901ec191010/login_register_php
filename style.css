@@ -1,0 +1,29 @@
+body{
+    padding:50px;
+    background-color: #f8f9fa;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.container{
+    max-width: 600px;
+    margin:0 auto;
+    padding:50px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+.container-2{
+    max-width: 1200px;
+    margin:0 auto;
+    padding:50px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+.form-group {
+    margin-bottom: 1rem;
+}
+.form-btn {
+    text-align: center;
+}
+.alert {
+    margin-top: 10px;
+}
+.text-center h2 {
+    margin-bottom: 20px;
+}

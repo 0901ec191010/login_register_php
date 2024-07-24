@@ -1,0 +1,17 @@
+{
+    "name": "hp/login_signup",
+    "autoload": {
+        "psr-4": {
+            "Hp\\LoginSignup\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "0901ec191010",
+            "email": "aahirwar251@gmail.com"
+        }
+    ],
+    "require": {
+        "phpoffice/phpspreadsheet": "^2.1"
+    }
+}
